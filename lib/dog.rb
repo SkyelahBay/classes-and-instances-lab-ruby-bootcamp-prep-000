@@ -1,6 +1,6 @@
 class Dog
 end
 
-dexter = Dog.new
-boulder = Dog.new
-baxter = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
