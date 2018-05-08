@@ -1,4 +1,4 @@
 class Person
 end
 
-name = Person.new
+adele_goldberg = Person.new
